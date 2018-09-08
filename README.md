@@ -18,3 +18,6 @@ In this game you have a Player and Enemies. The goal of the player is to reach t
 If the player won, the background toggles green.
 
 If the player lost, the background toggles red.
+
+# To load the game :
+You can clone/download the zip file or open index.html
